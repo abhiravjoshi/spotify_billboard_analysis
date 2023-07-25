@@ -1,4 +1,4 @@
-# TAKE A LOOK AT THE JUPYTER NOTEBOOK IN THE REPO AND LET ME KNOW WHAT YOU THINK :)
+# Analysis in the Jupyter Notebook
 # Spotify Song Data Analysis
 ## Jun 2023—Present
 ### • Drove ETL on datasets containing 300,000+ data points to investigate music trends of the past six decades; insights will guide artists and record labels to curate music hits in the modern landscape
